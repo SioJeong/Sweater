@@ -39,13 +39,15 @@
 1. **Main**
    - 추천 컨텐츠 및 신규 게시글을 볼 수 있는 섹션이 있습니다.
    - Nav의 심볼을 누르면 애니메이션과 함께 Main 페이지로 이동합니다.
-   <p align="center">
-     <img src="images/main.gif" alt="Main Page">
+     
+   <p align="center" >
+     <img src="images/main.gif" alt="Main Page" />
    </p>
 
 2. **Sign up**
    - ID, 패스워드, 닉네임을 DB와 비교하여 유효성 검사를 진행하며, 통과하지 못한 경우 경고 문구가 표시됩니다.
    - 이메일 인증으로 인증번호를 받아 인증 후 가입 가능하도록 구현했습니다.
+     
    <p align="center">
      <img src="images/user.gif" alt="Sign up">
    </p>
@@ -53,6 +55,7 @@
 3. **Log In**
    - DB에서 회원 정보를 찾아, 로그인 할 수 있습니다.
    - 카카오 소셜 로그인을 구현했습니다.
+     
    <p align="center">
      <img src="images/kakao.gif" alt="Log In">
    </p>
@@ -61,6 +64,7 @@
    - 사진을 클릭하면 프로필 이미지를 변경할 수 있습니다.
    - 자기소개글을 등록 및 수정할 수 있습니다.
    - 나의 게시글과 댓글 목록, 좋아요한 게시글, 댓글 목록, 메시지를 확인할 수 있습니다.
+     
    <p align="center">
      <img src="images/mypage.gif" alt="My Page">
    </p>
@@ -68,36 +72,46 @@
 5. **Video**
    - AI 챗봇과 대화할 수 있습니다.
    - 동영상을 검색할 수 있습니다.
+     
    <p align="center">
      <img src="images/video.gif" alt="Video">
    </p>
 
 6. **Board**
    - 지역과 산으로 게시글을 필터링 할 수 있습니다.
+     
    <p align="center">
      <img src="images/boardlist.gif" alt="Board List">
    </p>
+   
    - 로그인 한 상태에서 내가 작성하지 않은 글이라면, 좋아요를 누를 수 있습니다.
    - 댓글을 작성할 수 있습니다.
+   
    <p align="center">
      <img src="images/boarddetail.gif" alt="Board Detail">
    </p>
+   
    - 작성 시 지도를 커스터마이징해서 나만의 등산로를 생성할 수 있습니다. 나만의 등산로는 DB에 게시글과 연동되어 저장됩니다.
+     
    <p align="center">
      <img src="images/boardcreate.gif" alt="Board Create">
    </p>
 
 7. **Thunder**
    - 지역과 산으로 게시글을 필터링 할 수 있습니다.
+     
    <p align="center">
      <img src="images/thunder.gif" alt="Thunder">
    </p>
+   
    - 로그인 한 상태에서 내가 작성하지 않은 글이라면, 좋아요를 누를 수 있습니다.
    - 댓글을 작성할 수 있습니다.
    - 작성 시 지도를 커스터마이징해서 나만의 등산로를 생성할 수 있습니다. 나만의 등산로는 DB에 게시글과 연동되어 저장됩니다.
+     
    <p align="center">
      <img src="images/invite.gif" alt="Invite">
    </p>
+   
    - 댓글을 통해 유저와 소통할 수 있으며, Invite를 통해 생성한 메시지는 My Page에서 확인할 수 있습니다.
 
 ## 📖 회고
