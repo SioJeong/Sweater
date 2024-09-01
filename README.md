@@ -1,5 +1,4 @@
 # 등산 커뮤니티 Sweater
-###### 구현 화면을 보여주기 위한 README용 Repo입니다. <br> 코드는 저작권으로 인해 비공개합니다.
 <p align="center">
   <img src="images/symbol.png" alt="Sweater Logo" width="750" />
 </p>
